@@ -1,0 +1,32 @@
+---
+title: "Bonus Assignment 1"
+author: "Bella Nevarez"
+date: "2025-12-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction 
+
+his is my practice R Markdown file for Bonus Assignment 1.
+The goal is to practice using git and GitHub with RStudio.
+
+## Example Summary
+```{r cars}
+summary(cars)
+```
+
+## Example Plot
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(cars$speed, cars$dist,
+xlab = "Speed",
+ylab = "Stopping distance",
+main = "Cars data example")
+```
+
