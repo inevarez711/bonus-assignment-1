@@ -11,8 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction 
 
-his is my practice R Markdown file for Bonus Assignment 1.
+This is my practice R Markdown file for Bonus Assignment 1.
 The goal is to practice using git and GitHub with RStudio.
+
+I am practicing GitHub version control for Bonus Assignment 1.
 
 ## Example Summary
 ```{r cars}
